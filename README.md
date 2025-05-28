@@ -25,3 +25,11 @@ dotnet run
 ```
 Access Swagger API documentation at:
 http://localhost:5000/swagger
+
+
+# Thank you to all team members who contributed to this project.
+[@Mikolas](https://github.com/Dry3yes)
+[@marcelpeterson](https://github.com/marcelpeterson)
+[@Teddy-Jul](https://github.com/Teddy-Jul)
+[@NadiMahirsya](https://github.com/IVadim420)
+[@Keane111](https://github.com/Keane111)
